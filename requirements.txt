@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+requests
+beautifulsoup4
+selenium
+unidecode
+pandas
+openpyxl
+fake-useragent
